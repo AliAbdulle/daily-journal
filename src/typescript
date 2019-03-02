@@ -1,0 +1,29 @@
+Script started on Fri Mar  1 20:39:52 2019
+]7;file://Alis-Air/alidhobey/workspaces/daily-journal/src[1m[7m%[27m[1m[0m                                                                                ]2;alidhobey@Alis-Air]1;..y-journal/src]7;file://Alis-Air/alidhobey/workspaces/daily-journal/src[0m[27m[24m[J[01;32m➜  [36msrc[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hsscripts[?1l>[?2004l
+]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                ]2;alidhobey@Alis-Air]1;..l/src/scripts]7;file://Alis-Air/alidhobey/workspaces/daily-journal/src/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsjournal.js
+[1m[7m%[27m[1m[0m                                                                                ]2;alidhobey@Alis-Air]1;..l/src/scripts]7;file://Alis-Air/alidhobey/workspaces/daily-journal/src/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hssgs  ggs[?1l>[?2004l
+]2;git status]1;gsOn branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m./[m
+	[31m../typescript[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                ]2;alidhobey@Alis-Air]1;..l/src/scripts]7;file://Alis-Air/alidhobey/workspaces/daily-journal/src/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggsg gaa[?1l>[?2004l
+]2;git add --all]1;gaa[1m[7m%[27m[1m[0m                                                                                ]2;alidhobey@Alis-Air]1;..l/src/scripts]7;file://Alis-Air/alidhobey/workspaces/daily-journal/src/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggs[?1l>[?2004l
+]2;git status]1;gsOn branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mnew file:   journal.js[m
+	[32mnew file:   ../typescript[m
+
+[1m[7m%[27m[1m[0m                                                                                ]2;alidhobey@Alis-Air]1;..l/src/scripts]7;file://Alis-Air/alidhobey/workspaces/daily-journal/src/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggcm "Added ja  journal.js[?1l>[?2004l
+[0m[27m[24m[Jdquote> [K[?1h=[?2004hgsg  gaa[?1l>[?2004l
+[0m[27m[24m[Jdquote> [K[?1h=[?2004h
